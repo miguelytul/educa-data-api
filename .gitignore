@@ -1,0 +1,12 @@
+# Microdados brutos do Censo Escolar
+microdados_censo_escolar_2025_v2/
+microdados_censo_escolar_2025_.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Segredos e configurações locais
+.env
