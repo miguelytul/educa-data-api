@@ -15,3 +15,5 @@ class SchoolSerializer(serializers.ModelSerializer):
             "dependencia_administrativa",
             "localizacao",
         ]
+
+        
